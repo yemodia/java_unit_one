@@ -8,7 +8,7 @@ public class RoundNegatives {
         System.out.print("Enter a negative value:");
         double negativeNumOne =   neg.nextDouble();
         int casting = (int)(negativeNumOne - 0.5) ;
-        System.out.print(negativeNumOne + " rounded to a whole number is" + casting);
+        System.out.print(negativeNumOne + " rounded to a whole number is " + casting);
 
     }
 }
